@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e00f0d1a-9a06-427a-ac2b-598b0f546def" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZGsE66I6W77Dpk7OtsmrNRhbwq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="scala_project_settings_configurable.last_selected_tab_index" value="0" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="intInjectionMapping">
+      <map>
+        <entry key="xml" value="XML" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e00f0d1a-9a06-427a-ac2b-598b0f546def" name="Default Changelist" comment="" />
+      <created>1584476650773</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584476650773</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="665" y="238" width="378" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1584477436881">
+      <screen x="34" y="0" width="1646" height="1050" />
+    </state>
+    <state x="665" y="238" width="378" height="575" key="#com.intellij.ide.util.MemberChooser/34.0.1646.1050/1680.282.1366.768@34.0.1646.1050" timestamp="1584477436881" />
+    <state x="589" y="312" width="529" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584479888299">
+      <screen x="34" y="0" width="1646" height="1050" />
+    </state>
+    <state x="589" y="312" width="529" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog/34.0.1646.1050/1680.282.1366.768@34.0.1646.1050" timestamp="1584479888299" />
+    <state x="492" y="233" width="717" height="585" key="FileChooserDialogImpl" timestamp="1584476663993">
+      <screen x="34" y="0" width="1646" height="1050" />
+    </state>
+    <state x="492" y="233" width="717" height="585" key="FileChooserDialogImpl/34.0.1646.1050/1680.282.1366.768@34.0.1646.1050" timestamp="1584476663993" />
+    <state x="340" y="103" width="1028" height="845" key="SettingsEditor" timestamp="1584476664584">
+      <screen x="34" y="0" width="1646" height="1050" />
+    </state>
+    <state x="340" y="103" width="1028" height="845" key="SettingsEditor/34.0.1646.1050/1680.282.1366.768@34.0.1646.1050" timestamp="1584476664584" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/application/Sensor.java</url>
+          <line>4</line>
+          <properties class="application.Sensor" method="isOn">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
